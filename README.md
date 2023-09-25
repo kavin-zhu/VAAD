@@ -10,6 +10,9 @@ as both audio from the assistant, and a plaintext transcript.
 This work was presented at the *Canadian Undergraduate Conference on Artificial
 Intelligence* 2021. This work was done with *QMIND - Queen's AI Hub*.
 
+Presented in an award-winning paper featured in the Cucai 2021 proceedings:
+https://www.linkedin.com/feed/update/urn:li:activity:6807749279705296896/
+
 ## Running the project
 1. Install the dependencies from `requirements.txt`
 2. Unzip `model/model.zip`
